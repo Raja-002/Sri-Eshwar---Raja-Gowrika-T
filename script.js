@@ -52,6 +52,8 @@ newsets.add("two");
 newsets.add(29);
 newsets.add("one");
 console.log(newsets);
-newsets.delete("two");*/
+newsets.delete("two");
+newsets.has(29);
+newsets.has(100);*/
 
 
