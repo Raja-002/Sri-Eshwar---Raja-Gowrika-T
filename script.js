@@ -54,6 +54,7 @@ newsets.add("one");
 console.log(newsets);
 newsets.delete("two");
 newsets.has(29);
-newsets.has(100);*/
+newsets.has(100);
+newsets.clear()*/
 
 
