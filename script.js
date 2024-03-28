@@ -37,6 +37,11 @@ function sub(a,b){
 }
 sub(30,10);*/
 
+/*let add= (a,b)=>{
+    console.log(a+b);
+}
+add(10,20);*/
+
 /*console.log("set...");
 const sets = new Set([1,2,3,8]);
 console.log(sets);
@@ -46,6 +51,7 @@ newsets.add("one");
 newsets.add("two");
 newsets.add(29);
 newsets.add("one");
-console.log(newsets);*/
+console.log(newsets);
+newsets.delete("two");*/
 
 
